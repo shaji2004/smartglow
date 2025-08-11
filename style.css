@@ -1,0 +1,90 @@
+.box1{
+    background-color: beige;
+    width: 100%;
+    height: 40%;
+}
+
+.one{
+    display: inline;
+}
+ul,li{
+    display: inline;
+}
+ul{
+    margin-left: 65%;
+}
+li{
+    margin-left: 10px;
+}
+.one{
+    padding: 15px;
+}
+.sep{
+    display: flex;
+   
+}
+img{
+    margin-left: 260%;
+    padding: 10%;
+}
+.right{
+    margin-left: 15px;
+    margin-top: 25px;
+}
+a{
+    background-color: blue;
+    display: inline-block;
+    padding: 10px;
+    width: 120px;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    
+}
+.button{
+    text-decoration: none;
+
+}
+.Features{
+    text-align: center;
+}
+.box2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+}
+.box3{
+    text-align: center;
+    width: 100%;
+    height: 25%;
+    background-color: beige;
+    padding-top: 4px;
+}
+.box4{
+    width: 100;
+    height: 100;
+    margin-left: 47%;
+    background-color: lightpink;
+    color: white;
+    border-radius: 50%;
+    padding-top: 2px;
+}
+.box5{
+    text-align: center;
+  
+}
+.but{
+   margin-top: 10px;
+   text-decoration: none;
+   background-color: blue;
+   color: white;
+}
+.but:hover,.button:hover{
+    transform: scale(0.95);
+}
+li:hover{
+    color: blue;
+    cursor: pointer;
+}
+
